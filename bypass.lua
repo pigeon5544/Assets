@@ -16,3 +16,5 @@ for Index, Data in next, getgc(true) do
 		continue
     end
 end
+
+getgenv().ACBYPASS = true
